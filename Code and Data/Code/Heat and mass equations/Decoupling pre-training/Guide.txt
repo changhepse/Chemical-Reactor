@@ -1,0 +1,4 @@
+train_h2t: Main program for PINN training heat transfer equations
+train_r2: Main program for PINN training convection diffusion equations
+geo: Geometric domain definition
+csv file: Validation set

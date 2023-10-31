@@ -1,0 +1,3 @@
+train_hr: Main program for PINN coupled training of heat transfer and convection diffusion equations
+geo: Geometric domain definition
+csv file: Validation set

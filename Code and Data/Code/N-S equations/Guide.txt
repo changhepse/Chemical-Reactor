@@ -1,0 +1,3 @@
+train_NS_2: Main program for PINN training N-S equations
+geo: Geometric domain definition
+csv file: Validation set
