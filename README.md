@@ -1,0 +1,4 @@
+# Chemical-Reactor
+Chemical Reactor Design Using Physics-Informed Learning
+We utilized the PyTorch 1.7.1 GPU version deep learning framework, compiled with PyCharm, to construct and train the PINN models. The "code" folder contains all the PyCharm codes related to the "Plate Reactor System" case discussed in the manuscript. It encompasses the fluid flow, heat transfer, and mass transfer equations, along with the implementation files for the proposed "decoupling pre-training" and "multiphysics coupling training" methods. In the "code" folder, each file is accompanied by a documentation file called "guide.txt". This guide provides brief instructions on how to run each code. Please refer to the "guide.txt" for further information on running the codes. All raw data used to generate the charts, including Figures 6 to 16, can be found in the "data" folder.
+ 
